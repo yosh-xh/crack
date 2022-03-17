@@ -1,5 +1,5 @@
 #Cython English Version Decompiler 
-#Decompile By Stroledox 
+#Decompile By Yoshiba-Xh
 # -*- coding: utf-8 
 import os, sys, re, time, requests, calendar, random, bs4, subprocess, uuid, json 
 from concurrent.futures import ThreadPoolExecutor 
